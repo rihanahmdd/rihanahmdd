@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rihanahmdd
 - 👀 I’m interested in #python, #c #MySQL
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me ? You can message me directly.
 
 <!---
